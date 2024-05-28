@@ -1,0 +1,1 @@
+some langchain files were modified because of errors related to proxy endpoint, i put the modified libraries here and passed them to the container with the dockerfile
