@@ -1,1 +1,1 @@
-# cosmos-db-dev-guide-backend-app-python
+For devpost ai learning hackathon
